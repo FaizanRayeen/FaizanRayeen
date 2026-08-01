@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Faizan Rayeen 👋</h1>
-
 <h3 align="center">Aspiring Data Analyst • B.Tech AI Student • Nagpur, India</h3>
 
 <p align="center">
@@ -21,13 +20,9 @@ I'm passionate about turning raw data into meaningful business insights. I enjoy
 <br>
 
 🏆 **Star Performer** – Future Byte 2026 Hackathon (Itvedant, June 2026)
-
 🧹 Cleaned & processed **50,000+ rows** of real-world data across multiple projects
-
-📊 Built **3+ interactive dashboards** using Power BI, Tableau, and Excel for KPI & business reporting
-
-🔍 Written **20+ complex SQL queries** using joins, window functions & aggregations
-
+📊 Built **6+ interactive dashboards** using Power BI, Tableau, and Excel for KPI & business reporting
+🔍 Written **40+ complex SQL queries** using joins, window functions & aggregations
 🎯 Currently seeking a **Data Analyst Internship** to apply my skills in a real business environment
 
 ---
@@ -45,27 +40,68 @@ I'm passionate about turning raw data into meaningful business insights. I enjoy
 
 ## 📂 Featured Projects
 
-### 🛒 [E-Commerce Sales Analytics](https://github.com/FaizanRayeen/ecommerce-postgres-analysis) — PostgreSQL
+### 📊 [Data Analytics Portfolio](https://github.com/FaizanRayeen/Data-Analytics-Portfolio)
+A consolidated portfolio covering **Excel, Power BI, Tableau, and SQL** — dashboards and analysis across e-commerce, banking, retail/F&B, HR, and entertainment domains.
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**📗 Excel**
+- Global E-Commerce Sales Dashboard
+- Customer Churn Analysis Dashboard
+- Coffee Shop Sales Dashboard
+
+**📘 Power BI**
+- Netflix Content Intelligence Dashboard
+- Bank Performance Dashboard
+- Coffee Shop Analysis (From Beans to Business)
+
+</td>
+<td valign="top" width="50%">
+
+**📙 Tableau**
+- HR Analytics & Attrition Dashboard
+
+**🗃️ SQL**
+- [E-Commerce Sales Analytics](https://github.com/FaizanRayeen/ecommerce-postgres-analysis)
+- [Food Delivery Analytics](https://github.com/FaizanRayeen/food-delivery-sql-analytics)
+
+</td>
+</tr>
+</table>
+
+🔗 **[Explore the full portfolio →](https://github.com/FaizanRayeen/Data-Analytics-Portfolio)**
+
+---
+
+### 🛒 [E-Commerce Sales Analytics](https://github.com/FaizanRayeen/ecommerce-postgres-analysis) — PostgreSQL
 Analyzed e-commerce sales data to uncover revenue patterns, customer behavior, and sales trends using advanced SQL — joins, aggregations, and window functions. Optimized queries for reporting accuracy and performance.
 
 ---
 
-### 🌍 Global E-Commerce Sales Dashboard — Microsoft Excel
-
-Designed a dynamic dashboard visualizing sales, profit, and regional performance across global markets. Used advanced Excel functions (VLOOKUP, INDEX-MATCH, Pivot Tables) for interactive business reporting.
+### 🍔 [Food Delivery Analytics](https://github.com/FaizanRayeen/food-delivery-sql-analytics) — PostgreSQL
+Designed and analyzed a food delivery platform database, covering customer behavior, restaurant performance, delivery efficiency, and revenue trends using CTEs, window functions, and business-focused SQL queries.
 
 ---
 
-### 🎬 Netflix Content Intelligence Dashboard — Power BI
-
+### 🎬 [Netflix Content Intelligence Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/powerbi-dashboards/Netflix-Content-Intelligence-Dashboard) — Power BI
 Built a KPI-focused Power BI dashboard analyzing Netflix content trends, ratings, and genre distribution using DAX measures, data modeling, and interactive visualizations.
 
 ---
 
-### 👥 HR Analytics & Attrition Dashboard — Tableau
+### 🏦 [Bank Performance Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/powerbi-dashboards/Bank-Performance-Dashboard) — Power BI
+A multi-page Power BI report analyzing bank transactions, customer risk, and fraud/loan portfolio health across 4,700+ customers.
 
+---
+
+### 👥 [HR Analytics & Attrition Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/tableau-dashboards/HR-Analytics-Attrition-Dashboard) — Tableau
 Developed a Tableau dashboard to analyze employee attrition, department-wise trends, and HR KPIs. Identified key drivers of attrition through data segmentation and delivered actionable workforce insights.
+
+---
+
+### 🌍 [Global E-Commerce Sales Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/excel-dashboards/Global-Ecommerce-Sales-Dashboard) — Microsoft Excel
+Designed a dynamic dashboard visualizing sales, profit, and regional performance across global markets using Pivot Tables, Slicers, and interactive KPI cards.
 
 ---
 
