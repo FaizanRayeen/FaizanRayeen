@@ -93,9 +93,9 @@ I specialize in **Data Analytics, Business Intelligence, and Data Science**. I l
   *Employee attrition patterns, department trends & workforce demographics.*
 
 ### 🗃️ Advanced SQL Projects
-- 🛒 **[E-Commerce Sales Analytics (PostgreSQL)](https://github.com/FaizanRayeen/ecommerce-postgres-analysis)**  
+- 🛒 **[E-Commerce Sales Analytics (PostgreSQL)](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/SQL_Projects_/Ecommerce-Postgres-Analytics)**  
   *20 analytical SQL queries across 5 relational tables covering revenue, customer LTV, and orders.*
-- 🍔 **[Food Delivery Analytics (PostgreSQL)](https://github.com/FaizanRayeen/food-delivery-sql-analytics)**  
+- 🍔 **[Food Delivery Analytics (PostgreSQL)](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/SQL_Projects_/Food-Delivery-SQL-Analytics)**  
   *Zomato/Swiggy-style analysis across customer ordering behavior & delivery efficiency.*
 
 </td>
