@@ -4,9 +4,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/faizan-rayeen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:faizanrayeen675@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=faizanrayeen675@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/FaizanRayeen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://faizanrayeen.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
 
 ---
@@ -15,7 +17,7 @@
 
 I'm a **B.Tech Artificial Intelligence** student (Graduating 2027) at **Priyadarshini J.L. College of Engineering, Nagpur** with a CGPA of **8.32**.
 
-I'm passionate about turning raw data into meaningful business insights. I enjoy working with real-world datasets, building interactive dashboards, and solving analytical problems using SQL, Excel, Power BI, and Tableau.
+I'm passionate about turning raw data into meaningful business insights. I enjoy working with real-world datasets, building interactive dashboards, and solving analytical problems using SQL, Excel, Power BI, Tableau, and Python.
 
 <br>
 
@@ -31,7 +33,8 @@ I'm passionate about turning raw data into meaningful business insights. I enjoy
 
 | Category | Tools |
 |---|---|
-| **Languages** | SQL • Python • Java |
+| **Languages** | SQL • Python |
+| **Data Science & ML** | NumPy • Pandas • Matplotlib • Seaborn • Scikit-Learn • Plotly • Cufflinks |
 | **Visualization & BI** | Power BI • Tableau • Microsoft Excel • Google Sheets |
 | **Databases** | PostgreSQL |
 | **Core Skills** | Data Cleaning • Dashboard Development • KPI Reporting • Query Optimization • DAX • Pivot Tables |
@@ -48,20 +51,20 @@ A consolidated portfolio covering **Excel, Power BI, Tableau, and SQL** — dash
 <td valign="top" width="50%">
 
 **📗 Excel**
-- Global E-Commerce Sales Dashboard
-- Customer Churn Analysis Dashboard
-- Coffee Shop Sales Dashboard
+- [Global E-Commerce Sales Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/Excel_Dashboards_/Global-Ecommerce-Sales-Dashboard)
+- [Customer Churn Analysis Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/Excel_Dashboards_/Customer-Churn-Analysis-Dashboard)
+- [Coffee Shop Sales Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/Excel_Dashboards_/Coffee-Shop-Sales-Dashboard)
 
 **📘 Power BI**
-- Netflix Content Intelligence Dashboard
-- Bank Performance Dashboard
-- Coffee Shop Analysis (From Beans to Business)
+- [Netflix Content Intelligence Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/Powerbi_Dashboards_/Netflix-Content-Intelligence-Dashboard)
+- [Bank Performance Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/Powerbi_Dashboards_/Bank-Performance-Dashboard)
+- [Coffee Shop Analysis (From Beans to Business)](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/Powerbi_Dashboards_/Data-Driven-Coffee-Shop-Analysis)
 
 </td>
 <td valign="top" width="50%">
 
 **📙 Tableau**
-- HR Analytics & Attrition Dashboard
+- [HR Analytics & Attrition Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/Tableau_Dashboards_/HR-Analytics-Attrition-Dashboard)
 
 **🗃️ SQL**
 - [E-Commerce Sales Analytics](https://github.com/FaizanRayeen/ecommerce-postgres-analysis)
@@ -85,22 +88,22 @@ Designed and analyzed a food delivery platform database, covering customer behav
 
 ---
 
-### 🎬 [Netflix Content Intelligence Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/powerbi-dashboards/Netflix-Content-Intelligence-Dashboard) — Power BI
+### 🎬 [Netflix Content Intelligence Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/Powerbi_Dashboards_/Netflix-Content-Intelligence-Dashboard) — Power BI
 Built a KPI-focused Power BI dashboard analyzing Netflix content trends, ratings, and genre distribution using DAX measures, data modeling, and interactive visualizations.
 
 ---
 
-### 🏦 [Bank Performance Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/powerbi-dashboards/Bank-Performance-Dashboard) — Power BI
+### 🏦 [Bank Performance Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/Powerbi_Dashboards_/Bank-Performance-Dashboard) — Power BI
 A multi-page Power BI report analyzing bank transactions, customer risk, and fraud/loan portfolio health across 4,700+ customers.
 
 ---
 
-### 👥 [HR Analytics & Attrition Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/tableau-dashboards/HR-Analytics-Attrition-Dashboard) — Tableau
+### 👥 [HR Analytics & Attrition Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/Tableau_Dashboards_/HR-Analytics-Attrition-Dashboard) — Tableau
 Developed a Tableau dashboard to analyze employee attrition, department-wise trends, and HR KPIs. Identified key drivers of attrition through data segmentation and delivered actionable workforce insights.
 
 ---
 
-### 🌍 [Global E-Commerce Sales Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/excel-dashboards/Global-Ecommerce-Sales-Dashboard) — Microsoft Excel
+### 🌍 [Global E-Commerce Sales Dashboard](https://github.com/FaizanRayeen/Data-Analytics-Portfolio/tree/main/Excel_Dashboards_/Global-Ecommerce-Sales-Dashboard) — Microsoft Excel
 Designed a dynamic dashboard visualizing sales, profit, and regional performance across global markets using Pivot Tables, Slicers, and interactive KPI cards.
 
 ---
