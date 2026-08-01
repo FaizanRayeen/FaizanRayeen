@@ -124,9 +124,11 @@ I specialize in **Data Analytics, Business Intelligence, and Data Science**. I l
 ## 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaizanRayeen&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanRayeen&layout=compact&theme=dark&hide=html,css,javascript" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanRayeen&theme=react-dark" alt="Faizan Rayeen GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=FaizanRayeen&theme=dark" alt="Faizan Rayeen GitHub Streak Stats" />
 </p>
 
 ---
